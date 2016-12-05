@@ -66,10 +66,10 @@ spec:
         - name: GITLAB_PORT
           value: "80"
 
-        - name: OAUTH_GITHUB_API_KEY
-          value: 1c40a98a7af36762b320
-        - name: OAUTH_GITHUB_APP_SECRET
-          value: e6761eb0c89ef60bdc73ca0b296f0fd598d740e4
+#        - name: OAUTH_GITHUB_API_KEY
+#          value: testkey
+#        - name: OAUTH_GITHUB_APP_SECRET
+#          value: testsecret 
 
         - name: GITLAB_NOTIFY_ON_BROKEN_BUILDS
           value: "true"
