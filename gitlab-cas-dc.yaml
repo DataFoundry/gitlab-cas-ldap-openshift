@@ -43,7 +43,7 @@ spec:
         - name: DB_USER
           value: gitlab
         - name: DB_PASS
-          value: AsiainfoLDP2016
+          value: test11asia 
         - name: REDIS_HOST
           value: 172.30.239.214
         - name: REDIS_PORT

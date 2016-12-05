@@ -31,7 +31,7 @@ spec:
         - name: DB_USER
           value: gitlab
         - name: DB_PASS
-          value: AsiainfoLDP2016
+          value: test11asia 
         - name: DB_ADAPTER
           value: postgresql
         - name: DB_EXTENSION
